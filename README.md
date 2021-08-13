@@ -24,7 +24,7 @@ Nadir Patcher is the result.
 There are two versions of the script:
 
 * `nadir-ptacher.py`: this calculates the resolution of the first image once, and thus the nadir once. It then overlays the nadir on all images supplied. Use when images are all the same resolution.
-* `nadir-ptacher.py`: this calculates the resolution of every image, and thus the nadir everytime. This is useful when directory has photo files with multiple resolutions.
+* `nadir-ptacher-slow.py`: this calculates the resolution of every image, and thus the nadir everytime. This is useful when directory has photo files with multiple resolutions.
 
 ## Requirements
 
